@@ -1,0 +1,144 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+}
+.container-fluid{
+    padding: 20px;
+}
+.container{
+    display: flex;
+    gap: 100px;
+    margin: 50px;    
+}
+.Order{
+    width: 280px;
+    height: 750px;
+    border: solid 1px;
+    text-align: center;
+}
+.Photo{
+    width: 350px;
+    height: 750px;
+}
+.Ratings{
+    width: 480px;
+    height: 750px;
+    position: relative;
+}
+h3{
+    text-align: left;
+}
+.Rating{
+    text-align: left;
+}
+.Quantity{
+    text-align: left;
+}
+.Quantity button{
+    color: black;
+    background-color:#E9ECEF;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.Quantity .button-increase{
+    color: #212020;
+    background-color: #fff;
+}
+.Quantity .button-decrease{
+    color: #212020;
+    background-color: #fff;
+}
+.Quantity .button-increase:hover{
+    border-color: #212020;
+    border: solid 3px;
+}
+.Quantity .button-decrease:hover{
+    border-color: #212020;
+    border: solid 3px;
+}
+.select-option{
+    text-align: left;
+}
+.select-option button{
+color: #fff;
+background-color: #FF4C3B;
+padding: 10px 30px;
+border: solid 2px #FF4C3B ;
+border-radius: 10px;
+margin: 20px;
+}
+.select-option .text-kg:hover{
+    color: #212020;
+    background-color: #fff;
+}
+.select-option .text-kg-1:hover{
+    color: #fff;
+    background-color: #FF4C3B;
+}
+.select-option .text-kg-1{
+    color: #212020;
+    background-color: #fff;
+}
+.type{
+    text-align: left;
+}
+.type button{
+    color: #fff;
+    background-color: #FF4C3B;
+    padding: 10px 30px;
+    border: solid 2px #FF4C3B ;
+    border-radius: 10px;
+    margin: 20px;
+    transition: 0.3s ease-in-out;
+}
+.type button:hover{
+        border: 2px solid #FF4C3B; 
+        background-color: #e04d2c; 
+        transform: scale(1.05)
+}
+.egg{
+    text-align: left;
+}
+.egg button{
+    color:#212020;
+    background-color: #fff;
+    padding: 10px 30px;
+    border: solid 1px #FF4C3B ;
+    border-color: #FF4C3B;
+    border-radius: 10px;
+    margin: 20px;
+}
+.egg button:hover{
+    color:#fff;
+    background-color: #FF4C3B;
+}
+.message{
+    text-align: left;
+}
+.message input{
+    width: 300px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 20px;
+    font-size: small;
+    }
+    .back button{
+        color: #fff;
+    background-color: #FF4C3B;
+    padding: 10px 30px;
+    border: solid 2px #FF4C3B ;
+    border-radius: 10px;
+    margin: 20px;
+    }
+    .back button:hover{
+        color: black;
+        background-color: #fff;
+    }
+    .share{
+        padding: 7px 10px;
+    }
+
+
+ */
